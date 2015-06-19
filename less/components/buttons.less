@@ -66,3 +66,30 @@
 		}
 	}
 }
+
+
+.btn-submit {
+	.anim;
+	color: fade(@red, 80%);
+	background: url(../img/enter-key.svg) no-repeat;
+	background-position: 0 center;
+	padding-left: 50px;
+	&:hover, 
+	&:focus {
+		background-image: url(../img/enter-key-active.svg);
+		color: @red;
+	}
+	&:active,
+	&.active {
+		transform: translateY(1px);
+		outline: 0;
+		&:focus {
+			outline: 0;
+		}
+	}
+}
+
+
+
+
+

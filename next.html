@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<!--[if ie]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+		<title>TravelHackaton</title>
+		<meta name="description" content="TravelHackaton">
+		<meta name="author" content="David Veselý" />
+		<meta name="robots" content="index, follow" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- CSS -->
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="css/main.min.css">
+		<!--[if lt IE 9]>
+			<script src=http:"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<![endif]-->
+	</head>
+	<body class="question-page">
+		<div class="progress-bar" data-from="15" data-complete="40">
+			<div class="bar-fill"></div>
+		</div>
+		
+		<div class="left-side">
+			<header class="header">
+				<h1>
+					<a href="#" class="logo">
+						<img src="img/logo.svg" alt="logo">
+					</a>
+				</h1>
+			</header>
+			<section class="question-section">
+				<h2 class="question">When can you travel?</h2>
+				<form class="form" action="next2.html">
+					<div class="form-group">
+						<button type="submit" class="btn btn-radio">
+							<i class="circle"></i>
+							<span>Anytime!</span>
+						</button>
+					</div>
+					<div class="form-group form-group-custom">
+						<span class="btn-radio-fake">
+							<i class="circle"></i>
+						</span>
+						<div class="rght">
+							<span>Sometimes between</span>
+							<input type="text" class="form-control" placeholder="dd/mm/yyyy">
+							<span>and</span>
+							<input type="text" class="form-control" placeholder="dd/mm/yyyy">
+						</div>
+					</div>
+				</form>
+			</section>
+		</div>
+
+		<!-- Javascript -->
+		<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/intro.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
