@@ -9,4 +9,4 @@ var progressComplete = $progress.data('complete');
 $progressFill.css('width', progressFrom+'%');
 setTimeout(function() {
 	$progressFill.css('width', progressComplete+'%');
-}, 500);
+}, 400);

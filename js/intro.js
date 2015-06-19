@@ -1,4 +1,4 @@
-var animationDelay = 2800;
+var animationDelay = 2300;
  
 animateHeadline($('.intro'));
  
