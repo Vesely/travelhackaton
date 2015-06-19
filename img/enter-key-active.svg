@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>key copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-309.000000, -112.000000)" id="next" stroke="#3F434C">
+            <g sketch:type="MSLayerGroup" transform="translate(309.000000, 69.000000)">
+                <g id="enter-copy-2" transform="translate(0.000000, 40.000000)" sketch:type="MSShapeGroup">
+                    <g id="key-copy-4" transform="translate(0.000000, 3.000000)">
+                        <rect id="check-box-copy-4" x="0" y="0" width="21" height="21" rx="3"></rect>
+                        <g id="enter" transform="translate(5.000000, 7.000000)">
+                            <path d="M7.67264624,0.981079394 C7.67264624,0.981079394 8.11764978,0.981079394 8.6646097,0.981079394 L10.6026436,0.981079394 L10.6026436,6.02663953 L0.916219917,6.02663953" id="Path-3"></path>
+                            <path d="M1.01751356,5.94219278 L3.84594069,3.11376566" id="Path-4"></path>
+                            <path d="M1.01751356,5.94219278 L3.84594069,8.77061991" id="Path-4-Copy"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

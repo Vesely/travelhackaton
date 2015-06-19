@@ -16,6 +16,9 @@
 		<![endif]-->
 	</head>
 	<body class="home-page">
+		<div class="progress-bar" data-from="0" data-complete="15">
+			<div class="bar-fill"></div>
+		</div>
 		
 		<div class="left-side">
 			<header class="header">
@@ -28,10 +31,10 @@
 				</h1>
 			</header>
 			<section class="intro">
-				<strong class="hidden">travel more</strong>
-				<strong class="hidden">inspiration</strong>
-				<strong class="green">save time</strong>
-				<strong class="hidden">save money</strong>
+				<strong class="is-hidden red">travel more</strong>
+				<strong class="is-hidden yellow">inspiration</strong>
+				<strong class="is-visible purple">save time</strong>
+				<strong class="is-hidden green">save money</strong>
 			</section>
 
 			<section class="question-section">
@@ -70,6 +73,9 @@
 							<span>Don't care.</span>
 						</button>
 					</div>
+					<div class="form-group form-group-full">
+						<input type="submit" class="btn btn-submit" value="Continue">
+					</div>
 				</form>
 			</section>
 		</div>
@@ -77,6 +83,7 @@
 		<!-- Javascript -->
 		<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
 		<script src="js/jquery.min.js"></script>
+		<script src="js/intro.js"></script>
 		<script src="js/main.js"></script>
 	</body>
 </html>
