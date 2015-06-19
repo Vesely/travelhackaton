@@ -1,0 +1,14 @@
+!.gitignore
+!.htaccess
+!web.config
+
+# Node, npm, Gulp
+node_modules/
+.tmp/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OS X
+.DS_Store
