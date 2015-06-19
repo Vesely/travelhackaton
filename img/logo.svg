@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>symbol</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="home" sketch:type="MSArtboardGroup" transform="translate(-101.000000, -107.000000)">
+            <g id="logo" sketch:type="MSLayerGroup" transform="translate(101.000000, 99.000000)">
+                <g id="symbol" transform="translate(0.000000, 8.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-1" fill="#C6EB41" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-1-Copy" fill="#B295F5" cx="30.2857143" cy="8" r="8"></circle>
+                    <circle id="Oval-1-Copy-2" fill="#FFD863" cx="30.2857143" cy="30.2857143" r="8"></circle>
+                    <circle id="Oval-1-Copy-3" fill="#FA927D" cx="8" cy="30.2857143" r="8"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
